@@ -1,0 +1,8 @@
+:root {
+  --beige-50: #FBF6F0;
+  --beige-100: #F3ECE3;
+  --gold-500: #D4A373;
+}
+.bg-beige-50 { background-color: var(--beige-50); }
+.bg-beige-100 { background-color: var(--beige-100); }
+.text-gold-600 { color: var(--gold-500); }
